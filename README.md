@@ -1,5 +1,5 @@
-# DivFreeNet
-DivFreeNet: Divergence-free neural network for unsupervised 4D Flow MRI velocity enhancement and unwrapping.
+# DAF-FlowNet
+DAF-FlowNet: Divergence-free neural network for unsupervised 4D Flow MRI velocity enhancement and unwrapping.
 
 This is the code repository of the publication:
 
